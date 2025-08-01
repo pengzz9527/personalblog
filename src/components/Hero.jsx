@@ -42,7 +42,7 @@ const Hero = () => {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
             <Button size="lg" className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3">
-              onClick={() => window.location.href = '#articles'} 
+             
               开始阅读
               <ArrowRight className="ml-2 h-4 w-4" />
             </Button>
